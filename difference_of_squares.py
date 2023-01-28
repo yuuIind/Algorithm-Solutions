@@ -5,8 +5,8 @@ def square_of_sum(number):
     :return: int - square of the sum of the first N natural numbers.
 
     """
-    sum = number * \
-        (number + 1) // 2  # sum % 2 always equals to zero, thus it's ok to use '//'
+    sum = (number * (number + 1)
+           ) // 2  # sum % 2 always equals to zero, thus it's ok to use '//'
     return sum ** 2
 
 
