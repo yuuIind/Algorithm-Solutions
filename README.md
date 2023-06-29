@@ -2,7 +2,26 @@
 
 ---
 
-My solutions to `exercism/Python` track
+Includes:
+  - Code snippets
+  - My solutions to `exercism/Python` track
+  - My solutions to `leetcode` problems 
+
+---
+
+# Code snippets
+
+These random codes includes:
+  - My implementation of solution to some known problems
+  - Syntax tests
+  - Learning and testing python packages
+  - Completely useless stuff 
+
+---
+
+# Leetcode
+
+> Website: [leetcode](https://leetcode.com/)
 
 ---
 
