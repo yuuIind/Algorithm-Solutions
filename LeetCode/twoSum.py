@@ -6,8 +6,8 @@ class Solution(object):
         :rtype: List[int]
         """
         map_dic = {}
-        for i in range(len(nums)):
-            if (target-nums[i]) in map_dic:
-                return [i, map_dic[target-nums[i]]]
-            map_dic[nums[i]] = i
+        for i, n in enumerate(nums):
+            if (target-n) in map_dic:
+                return [i, map_dic[target-n]]
+            map_dic[n] = i
         return []
