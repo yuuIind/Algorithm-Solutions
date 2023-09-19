@@ -13,7 +13,7 @@ class Solution(object):
         result = ListNode()
         digit = result
         carry = 0
-        while (l1 != None) or (l2 != None) or carry != 0:
+        while l1 or l2 or carry:
             val1 = l1.val if l1 else 0
             val2 = l2.val if l2 else 0
             digitSum = carry + val1 + val2
