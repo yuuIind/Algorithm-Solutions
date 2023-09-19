@@ -7,8 +7,7 @@ class Solution(object):
         passed = {}
         start = 0
         length = 0
-        for i in range(len(s)):
-            c = s[i]
+        for i, c in enumerate(s):
             if c in passed and passed[c] >= start:
                 start = passed[c] + 1
             else:
