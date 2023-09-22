@@ -3,9 +3,6 @@ def groupAnagrams(self, strs):
     :type strs: List[str]
     :rtype: List[List[str]]
     """
-    if len(strs) < 2:
-        return [[""]] if "" in strs else strs
-
     hash_table = {}
 
     for s in strs:
