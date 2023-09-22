@@ -6,4 +6,4 @@ Solved Problems
 5. [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) : [solution](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/isPalindrome.py)
 6. [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) : [solution](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/groupAnagrams.py)
 7. [217-Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) : [solution](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/containsDuplicate.py)
-242. [242-Valid Anagram](https://leetcode.com/problems/valid-anagram/) : [solution](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/validAnagram.py)
+8. [242-Valid Anagram](https://leetcode.com/problems/valid-anagram/) : [solution](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/validAnagram.py)
