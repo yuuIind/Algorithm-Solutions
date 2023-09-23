@@ -7,3 +7,4 @@ Solved Problems
 6. [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) : [solution](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/groupAnagrams.py)
 7. [217-Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) : [solution](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/containsDuplicate.py)
 8. [242-Valid Anagram](https://leetcode.com/problems/valid-anagram/) : [solution](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/validAnagram.py)
+9. [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) : [solution](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/topKFrequent.py)
