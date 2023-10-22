@@ -8,6 +8,7 @@ Solved Problems
 | 4 | Median of Two Sorted Arrays | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/findMedianSortedArrays.py) |
 | 9 | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/isPalindrome.py) |
 | 20 | Valid Parentheses | [Link](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/isValid.py) |
+| 21 | Merge Two Sorted Lists | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/mergeTwoLists.py) |
 | 49 | Group Anagrams | [Link](https://leetcode.com/problems/group-anagrams/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/groupAnagrams.py) |
 | 217 | Contains Duplicate | [Link](https://leetcode.com/problems/contains-duplicate/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/containsDuplicate.py) |
 | 238 | Product of Array Except Self | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/productExceptSelf.py) |
