@@ -37,3 +37,9 @@ Exercism is an online, open-source, free coding platform that offers code practi
 > Python Track: [Python on Exercism](https://exercism.org/tracks/python)
 
 > Github: [Exercism Python Track](https://github.com/exercism/python)
+
+# Project Euler
+
+> Website: [project euler](https://projecteuler.net/)
+
+---
