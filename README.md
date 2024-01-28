@@ -6,7 +6,7 @@ Includes:
   - Code snippets
   - My solutions to `exercism/Python` track
   - My solutions to `leetcode` problems 
-
+  - My solutions to `project euler` problems
 ---
 
 # Code snippets
