@@ -7,6 +7,8 @@ Solved Problems
 | 3 | Longest Substring Without Repeating Characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/lengthOfLongestSubstring.py) |
 | 4 | Median of Two Sorted Arrays | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/findMedianSortedArrays.py) |
 | 9 | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/isPalindrome.py) |
+| 13 | Roman to Integer | [Link](https://leetcode.com/problems/roman-to-integer/) | [Link](/LeetCode/romanToInteger.py) |
+| 14 | Longest Common Prefix | [Link](https://leetcode.com/problems/longest-common-prefix/) | [Link](/LeetCode/longestCommonPrefix.py) |
 | 20 | Valid Parentheses | [Link](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/isValid.py) |
 | 21 | Merge Two Sorted Lists | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/mergeTwoLists.py) |
 | 49 | Group Anagrams | [Link](https://leetcode.com/problems/group-anagrams/) | [Link](https://github.com/yuuIind/Python-exercises/blob/main/LeetCode/groupAnagrams.py) |
